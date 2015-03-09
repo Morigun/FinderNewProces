@@ -1,0 +1,9 @@
+D:\Проекты\MSVS\C#\FinderNewProces\FinderNewProces\bin\Debug\FinderNewProces.exe.config
+D:\Проекты\MSVS\C#\FinderNewProces\FinderNewProces\bin\Debug\FinderNewProces.exe
+D:\Проекты\MSVS\C#\FinderNewProces\FinderNewProces\bin\Debug\FinderNewProces.pdb
+D:\Проекты\MSVS\C#\FinderNewProces\FinderNewProces\obj\Debug\FinderNewProces.csprojResolveAssemblyReference.cache
+D:\Проекты\MSVS\C#\FinderNewProces\FinderNewProces\obj\Debug\FinderNewProces.Form1.resources
+D:\Проекты\MSVS\C#\FinderNewProces\FinderNewProces\obj\Debug\FinderNewProces.Properties.Resources.resources
+D:\Проекты\MSVS\C#\FinderNewProces\FinderNewProces\obj\Debug\FinderNewProces.csproj.GenerateResource.Cache
+D:\Проекты\MSVS\C#\FinderNewProces\FinderNewProces\obj\Debug\FinderNewProces.exe
+D:\Проекты\MSVS\C#\FinderNewProces\FinderNewProces\obj\Debug\FinderNewProces.pdb
