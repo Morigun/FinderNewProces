@@ -113,6 +113,7 @@ namespace FinderNewProces
             }
             catch(SystemException ex)
             {
+                sQuery = "1=1";
                 /*Заглушка для 1 запуска*/
             }
         }

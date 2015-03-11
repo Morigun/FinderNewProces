@@ -24,3 +24,5 @@ jusched.exe
 nvtray.exe
 IAStorIcon.exe
 igfxEM.exe
+vlc.exe
+FinderNewProces.exe
